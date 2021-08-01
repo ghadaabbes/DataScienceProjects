@@ -1,6 +1,6 @@
-### Assignment
 
-In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
+
+Visualization and calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
 
 #### Data description
 
@@ -45,12 +45,9 @@ Unit tests are written for you under `test_module.py`.
 
 ### Development
 
-For development, you can use `main.py` to test your functions. Click the "run" button and `main.py` will run.
+For development, use `main.py` to test your functions. Run `main.py`.
 
 ### Testing 
 
-We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
+Tests are imported from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you run `main.py`.
 
-### Submitting
-
-Copy your project's URL and submit it to freeCodeCamp.
