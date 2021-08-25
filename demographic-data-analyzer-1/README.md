@@ -18,15 +18,15 @@ The project answer the following questions:
 
 
 
-Unit tests are written for you under `test_module.py`.
+Unit tests are written under `test_module.py`.
 
 ### Development
 
-For development,  use `main.py` to test your functions. Run `main.py`.
+For development,  use `main.py` to test and run `main.py`.
 
 ### Testing 
 
-We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you run `main.py`.
+I imported the tests from `test_module.py` to `main.py`. The tests will run automatically whenever you run `main.py`.
 
 
 ### Dataset Source
