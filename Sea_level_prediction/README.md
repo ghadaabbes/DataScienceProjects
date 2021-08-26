@@ -1,6 +1,6 @@
 ### Description
 
-Analysis of a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.
+Analysis of a dataset of the global average sea level change since 1880.  Data used to predict the sea level change through year 2050.
 
 
 
@@ -13,11 +13,11 @@ Unit tests are written for you under `test_module.py`.
 
 ### Development
 
-For development, use `main.py` to test your functions. Run `main.py`.
+For development, use `main.py` to test. Run `main.py`.
 
 ### Testing 
 
-Tests are imported from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you run the `main.py`.
+Tests are imported from `test_module.py` to `main.py`. The tests will run automatically whenever you run the `main.py`.
 
 
 * Data used in this project are imported from `epa-sea-level.csv`.
